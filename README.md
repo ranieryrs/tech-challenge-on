@@ -24,7 +24,7 @@
     * Bootstrap (4.5.0)
 * It's not necessary to create additional files
 
-### Bonus
+### Bonus (Optional)
 * Remove an item from the table
 * Edit an item from the table
 * Table Pagination
